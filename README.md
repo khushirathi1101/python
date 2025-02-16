@@ -8,7 +8,7 @@ The [full image description on Docker Hub](https://hub.docker.com/_/python/) is 
 
 ## See a change merged here that doesn't show up on Docker Hub yet?
 
-For more information about the full official images change lifecycle, see [the "An image's source changed in Git, now what?" FAQ entry](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what).
+For more information about the full official images change lifecycle, see [the "An image's source changed in Git, now what?" FAQ entry](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what)
 
 For outstanding `python` image PRs, check [PRs with the "library/python" label on the official-images repository](https://github.com/docker-library/official-images/labels/library%2Fpython). For the current "source of truth" for [`python`](https://hub.docker.com/_/python/), see [the `library/python` file in the official-images repository](https://github.com/docker-library/official-images/blob/master/library/python).
 
